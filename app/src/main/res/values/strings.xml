@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Online Chatting</string>
+    <string name="title_activity_registeration">Registeration</string>
+    <string name="success">Success</string>
+    <string name="registered_successfully">Registered Successfully</string>
+    <string name="ok">ok</string>
+    <string name="failed">Failed</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="error">Error</string>
+    <string name="room_added_successfully">Room added successfully</string>
+    <string name="title_activity_chat_room">ChatRoomActivity</string>
+    <string name="try_again_later">Try again later</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="email_already_exist">Email already exists</string>
+    <string name="username_required">username required</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="invalid_email_or_password">Invalid email or password</string>
+</resources>

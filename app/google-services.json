@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067995378887",
+    "firebase_url": "https://routechat-e5cef.firebaseio.com",
+    "project_id": "routechat-e5cef",
+    "storage_bucket": "routechat-e5cef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067995378887:android:72e8cace31e12168",
+        "android_client_info": {
+          "package_name": "com.example.android.onlinechatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067995378887-dp8j3a9jt0tetlcjsstbdre0u01mia8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgz0fbfVw7MTOcXkfugWNU8ZLXpQcFWIU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
